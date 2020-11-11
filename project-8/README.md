@@ -12,3 +12,4 @@ Conditions:
 - One barrel of raw materials brings 4.5 USD of revenue The revenue from one unit of product is 4,500 dollars (volume of reserves is in thousand barrels).
 - After the risk evaluation, only the regions with the risk of losses lower than 2.5% will be kept. From the ones that fit the criteria, the region with the highest average profit should be selected.
 
+*Datasets are available upon request*
