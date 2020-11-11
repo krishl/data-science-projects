@@ -4,4 +4,6 @@ This project is to prepare a report for a bank’s loan division. Here we will i
 
 The report will be considered when building a credit score of a potential customer. Credit scoring is used to evaluate the ability of a potential borrower to repay their loan.
 
+Technologies used: Pandas, NLTK
+
 *Datasets are available upon request*
