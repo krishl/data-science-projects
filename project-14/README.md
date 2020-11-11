@@ -7,6 +7,6 @@ Supermarket chain Good Seed is introducing a computer vision system for processi
 - Analyze purchases and offer products that may interest buyers in particular age groups
 - Monitor clerks selling alcohol
 
-Here we will a model that will determine the approximate age of a person from a photograph. To help, we'll have a set of photographs of people with their ages indicated.
+Here we will build a model that will determine the approximate age of a person from a photograph. To help, we'll have a set of photographs of people with their ages indicated.
 
 *Datasets are available upon request*
