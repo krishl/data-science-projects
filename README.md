@@ -122,3 +122,10 @@ Supermarket chain Good Seed is introducing a computer vision system for processi
 - Monitor clerks selling alcohol
 
 Here we will build a model that will determine the approximate age of a person from a photograph. To help, we'll have a set of photographs of people with their ages indicated.
+
+---
+
+### [Project 15 - Predicting the temperature of steel](https://github.com/krishl/data-science-projects/blob/main/project-15/ds-project-15.ipynb)
+#### Libraries used: Pandas, LightGBM, Sklearn, Catboost
+
+In order to optimize production costs, the steel plant Steelproof decided to reduce their energy consumption at the steel processing stage. A model will be developed that will be able to predict the temperature of the metal.
